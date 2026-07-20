@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "b657154647a7a4fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e026723d216150e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b6f220f5e9bfdea",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Mesa de ayuda.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    true
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Mesa de ayuda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31a15e56e942d8ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "970c477150ec7056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84668ca8e05cbbce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1b64acfea78d197d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a6cdaeb53e0f3cc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c38adf427d13c6be",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cf1f2896487c153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5d053a6c24a00c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mesa de ayuda.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Mesa de ayuda"
+            }
+          },
+          {
+            "id": "c8c171046bfb3a09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mesa de ayuda.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Mesa de ayuda"
+            }
+          },
+          {
+            "id": "549fc74978b5a24b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1483a7faaa1b9521",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "2269c053c86c519c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mesa de ayuda.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Mesa de ayuda"
+            }
+          },
+          {
+            "id": "2f0e1bec4dbbc474",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "quickadd:QuickAdd": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "7b6f220f5e9bfdea",
+  "lastOpenFiles": [
+    "Tickets/2026/Julio/TSD - 1111.md",
+    "Mesa de ayuda.md",
+    "Dashboard/Inicio.md",
+    "Tickets/2026/julio/TSD - 1111.md",
+    "Plantillas/Ticket.md",
+    "Tickets/2026/julio/intento 1.md",
+    "Tickets/2026/Julio/intento 1.md",
+    "Tickets/2026/Julio/test.md",
+    "Tickets/2026/julio/test.md",
+    "Tickets/2026/Julio/asdasd.md",
+    "Plantillas/Sin confirmar 276748.crdownload",
+    "Tickets/2026/julio/asdasd.md",
+    "Tickets/2026/Julio/123213.md",
+    "Tickets/2026/julio/123213.md",
+    "Tickets/2026/Julio/Hola.md",
+    "Tickets/2026/julio/Hola.md",
+    "Tickets/2026/Julio/TSD - 1234.md",
+    "Tickets/2026/julio/TSD - 1234.md",
+    "Tickets/2026/Julio/Prueba.md",
+    "Tickets/2026/Julio/TSD - 9812.md",
+    "Tickets/2026/julio/Prueba.md",
+    "Tickets/2026/julio/TSD - 9812.md",
+    "Pasted image 20260719204737.png",
+    "Tickets/2026/Julio/aaaaa.md",
+    "Tickets/2026/julio/aaaaa.md",
+    "Tickets/2026/Julio/TSD - 2222.md",
+    "Tickets/2026/julio/TSD - 2222.md",
+    "Tickets/2026/Julio/1111.md",
+    "Tickets/2026",
+    "Tickets/2026/Julio/Sin nombre",
+    "Tickets/2026/Julio",
+    "Archivos",
+    "Plantillas",
+    "Tickets",
+    "Dashboard"
+  ]
+}

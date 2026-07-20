@@ -1,0 +1,9 @@
+{
+  "id": "ticket-flow-automator",
+  "name": "Ticket Flow Automator",
+  "version": "1.0.0",
+  "minAppVersion": "1.1.0",
+  "description": "Registra el historial de cambios de estado y solicita el responsable delegado cuando un ticket pasa a Escalado.",
+  "author": "Alexis Talla",
+  "isDesktopOnly": false
+}
