@@ -4,17 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "062c43209285129c",
+        "id": "3a686cddffe4e1d5",
         "type": "tabs",
         "children": [
           {
-            "id": "a462ef8f8f530e46",
+            "id": "eb4bd76dc001bbd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "kanban",
+              "state": {
+                "file": "Mesa de ayuda.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    true
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Mesa de ayuda"
             }
           }
         ]
@@ -74,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 341.5,
+    "collapsed": true
   },
   "right": {
     "id": "c38adf427d13c6be",
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mesa de ayuda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Mesa de ayuda"
             }
           },
           {
@@ -151,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mesa de ayuda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Mesa de ayuda"
             }
           },
           {
@@ -174,9 +190,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Mesa de ayuda.md"
+              },
               "icon": "lucide-info",
-              "title": "Propiedades del archivo"
+              "title": "Propiedades de los archivos para Mesa de ayuda"
             }
           },
           {
@@ -211,18 +229,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a462ef8f8f530e46",
+  "active": "eb4bd76dc001bbd9",
   "lastOpenFiles": [
+    "Tickets/2026/Julio/TSD - 10019.md",
+    "Tickets/2026/julio/TSD - 10027.md",
     "Mesa de ayuda.md",
+    "Tickets/2026/Julio/TSD - 10027.md",
+    "Evidencias/Pasted image 20260725080258.png",
+    "Tickets/2026/Julio/TSD - 10007.md",
+    "Tickets/2026/Julio/TSD - 10003.md",
     "Tickets/2026/Julio/TSD - 10013.md",
     "Tickets/2026/Julio/TSD - 10014.md",
-    "Tickets/2026/Julio/TSD - 10019.md",
     "Tickets/2026/Julio/TSD - 9811.md",
     "Tickets/2026/Julio/TSD - 10006.md",
     "Tickets/2026/Julio/TSD - 10011.md",
     "Tickets/2026/Julio/TSD - 10016.md",
     "Tickets/2026/July",
-    "Evidencias/Pasted image 20260725080258.png",
     "Evidencias/Pasted image 20260725075537.png",
     "Tickets/2026/Julio/TSD - 10009.md",
     "Tickets/2026/Julio/TSD - 9862.md",
@@ -237,7 +259,6 @@
     "Pasted image 20260724153046.png",
     "Evidencias/Pasted image 20260724153013.png",
     "Evidencias/Pasted image 20260724153108.png",
-    "Tickets/2026/Julio/TSD - 10007.md",
     "Tickets/2026/julio/TSD - 10008.md",
     "Tickets/2026/Julio/TSD - 10008.md",
     "Tickets/2026/julio/TSD - 10007.md",
@@ -246,12 +267,8 @@
     "Tickets/2026/Julio/TSD - 9458.md",
     "Tickets/2026/julio/TSD - 10003.md",
     "Tickets/2026/julio/TSD - 10004.md",
-    "Tickets/2026/Julio/TSD - 10003.md",
     "Tickets/2026/Julio/TSD - 9997.md",
     "Tickets/2026/julio/TSD - 9997.md",
-    "Tickets/2026/julio/TSD - 9993.md",
-    "Sin título.md",
-    "Tickets/2026/Julio/TSD - 9993.md",
     "Evidencias",
     "Plantillas/Sin confirmar 276748.crdownload",
     "Tickets/2026",

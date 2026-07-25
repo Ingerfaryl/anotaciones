@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] [[TSD - 10013]]
 - [ ] [[TSD - 10016]]
-- [ ] [[TSD - 10019]]
 
 
 ## En espera de respuesta
@@ -34,6 +33,8 @@ kanban-plugin: board
 
 ## Finalizado
 
+- [ ] [[TSD - 10027]]
+- [ ] [[TSD - 10019]]
 - [ ] [[TSD - 10002]]
 - [ ] [[TSD - 10003]]
 - [ ] [[TSD - 10004]]
@@ -52,6 +53,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,true],"move-task-metadata":false,"metadata-keys":[{"metadataKey":"delegado","label":"Delegado","shouldHideLabel":false,"containsMarkdown":false}]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,true],"move-task-metadata":false,"metadata-keys":[{"metadataKey":"delegado","label":"Delegado","shouldHideLabel":false,"containsMarkdown":false},{"metadataKey":"titulo","label":"","shouldHideLabel":false,"containsMarkdown":false},{"metadataKey":"usuario","label":"","shouldHideLabel":false,"containsMarkdown":false}],"new-card-insertion-method":"prepend-compact"}
 ```
 %%
